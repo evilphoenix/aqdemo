@@ -6,12 +6,12 @@ import com.ep.demo.R;
 import android.os.Bundle;
 import android.view.Menu;
 
-public class LoginActivity extends BaseActivity {
+public class UserInfoEditActivity extends BaseActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.login);
+		setContentView(R.layout.loading);
 	}
 
 	@Override

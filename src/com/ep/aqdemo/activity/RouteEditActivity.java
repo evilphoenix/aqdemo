@@ -1,17 +1,17 @@
 package com.ep.aqdemo.activity;
 
-import com.ep.aqdemo.base.BaseActivity;
+import com.ep.aqdemo.base.BaseListActivity;
 import com.ep.demo.R;
 
 import android.os.Bundle;
 import android.view.Menu;
 
-public class LoginActivity extends BaseActivity {
+public class RouteEditActivity extends BaseListActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		setContentView(R.layout.login);
+		setContentView(R.layout.loading);
 	}
 
 	@Override

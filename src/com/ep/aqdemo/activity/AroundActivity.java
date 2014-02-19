@@ -6,7 +6,7 @@ import com.ep.demo.R;
 import android.os.Bundle;
 import android.view.Menu;
 
-public class UserInfoModifyActivity extends BaseActivity {
+public class AroundActivity extends BaseActivity {
 
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
